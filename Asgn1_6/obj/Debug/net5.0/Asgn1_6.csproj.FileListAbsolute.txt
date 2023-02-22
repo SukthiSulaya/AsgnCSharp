@@ -1,0 +1,15 @@
+C:\Users\SSULAYAJ\source\repos\Asgn1_6\Asgn1_6\bin\Debug\net5.0\Asgn1_6.exe
+C:\Users\SSULAYAJ\source\repos\Asgn1_6\Asgn1_6\bin\Debug\net5.0\Asgn1_6.deps.json
+C:\Users\SSULAYAJ\source\repos\Asgn1_6\Asgn1_6\bin\Debug\net5.0\Asgn1_6.runtimeconfig.json
+C:\Users\SSULAYAJ\source\repos\Asgn1_6\Asgn1_6\bin\Debug\net5.0\Asgn1_6.runtimeconfig.dev.json
+C:\Users\SSULAYAJ\source\repos\Asgn1_6\Asgn1_6\bin\Debug\net5.0\Asgn1_6.dll
+C:\Users\SSULAYAJ\source\repos\Asgn1_6\Asgn1_6\bin\Debug\net5.0\ref\Asgn1_6.dll
+C:\Users\SSULAYAJ\source\repos\Asgn1_6\Asgn1_6\bin\Debug\net5.0\Asgn1_6.pdb
+C:\Users\SSULAYAJ\source\repos\Asgn1_6\Asgn1_6\obj\Debug\net5.0\Asgn1_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSULAYAJ\source\repos\Asgn1_6\Asgn1_6\obj\Debug\net5.0\Asgn1_6.AssemblyInfoInputs.cache
+C:\Users\SSULAYAJ\source\repos\Asgn1_6\Asgn1_6\obj\Debug\net5.0\Asgn1_6.AssemblyInfo.cs
+C:\Users\SSULAYAJ\source\repos\Asgn1_6\Asgn1_6\obj\Debug\net5.0\Asgn1_6.csproj.CoreCompileInputs.cache
+C:\Users\SSULAYAJ\source\repos\Asgn1_6\Asgn1_6\obj\Debug\net5.0\Asgn1_6.dll
+C:\Users\SSULAYAJ\source\repos\Asgn1_6\Asgn1_6\obj\Debug\net5.0\ref\Asgn1_6.dll
+C:\Users\SSULAYAJ\source\repos\Asgn1_6\Asgn1_6\obj\Debug\net5.0\Asgn1_6.pdb
+C:\Users\SSULAYAJ\source\repos\Asgn1_6\Asgn1_6\obj\Debug\net5.0\Asgn1_6.genruntimeconfig.cache
