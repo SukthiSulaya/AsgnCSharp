@@ -1,0 +1,16 @@
+C:\Users\SSULAYAJ\source\repos\asgn2\asgn2\bin\Debug\net5.0\asgn2.exe
+C:\Users\SSULAYAJ\source\repos\asgn2\asgn2\bin\Debug\net5.0\asgn2.deps.json
+C:\Users\SSULAYAJ\source\repos\asgn2\asgn2\bin\Debug\net5.0\asgn2.runtimeconfig.json
+C:\Users\SSULAYAJ\source\repos\asgn2\asgn2\bin\Debug\net5.0\asgn2.runtimeconfig.dev.json
+C:\Users\SSULAYAJ\source\repos\asgn2\asgn2\bin\Debug\net5.0\asgn2.dll
+C:\Users\SSULAYAJ\source\repos\asgn2\asgn2\bin\Debug\net5.0\ref\asgn2.dll
+C:\Users\SSULAYAJ\source\repos\asgn2\asgn2\bin\Debug\net5.0\asgn2.pdb
+C:\Users\SSULAYAJ\source\repos\asgn2\asgn2\obj\Debug\net5.0\asgn2.csproj.AssemblyReference.cache
+C:\Users\SSULAYAJ\source\repos\asgn2\asgn2\obj\Debug\net5.0\asgn2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSULAYAJ\source\repos\asgn2\asgn2\obj\Debug\net5.0\asgn2.AssemblyInfoInputs.cache
+C:\Users\SSULAYAJ\source\repos\asgn2\asgn2\obj\Debug\net5.0\asgn2.AssemblyInfo.cs
+C:\Users\SSULAYAJ\source\repos\asgn2\asgn2\obj\Debug\net5.0\asgn2.csproj.CoreCompileInputs.cache
+C:\Users\SSULAYAJ\source\repos\asgn2\asgn2\obj\Debug\net5.0\asgn2.dll
+C:\Users\SSULAYAJ\source\repos\asgn2\asgn2\obj\Debug\net5.0\ref\asgn2.dll
+C:\Users\SSULAYAJ\source\repos\asgn2\asgn2\obj\Debug\net5.0\asgn2.pdb
+C:\Users\SSULAYAJ\source\repos\asgn2\asgn2\obj\Debug\net5.0\asgn2.genruntimeconfig.cache
