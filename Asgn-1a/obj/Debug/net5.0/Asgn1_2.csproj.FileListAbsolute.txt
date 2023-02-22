@@ -1,0 +1,16 @@
+C:\Users\SSULAYAJ\source\repos\Asgn-1a\Asgn-1a\bin\Debug\net5.0\Asgn1_2.exe
+C:\Users\SSULAYAJ\source\repos\Asgn-1a\Asgn-1a\bin\Debug\net5.0\Asgn1_2.deps.json
+C:\Users\SSULAYAJ\source\repos\Asgn-1a\Asgn-1a\bin\Debug\net5.0\Asgn1_2.runtimeconfig.json
+C:\Users\SSULAYAJ\source\repos\Asgn-1a\Asgn-1a\bin\Debug\net5.0\Asgn1_2.runtimeconfig.dev.json
+C:\Users\SSULAYAJ\source\repos\Asgn-1a\Asgn-1a\bin\Debug\net5.0\Asgn1_2.dll
+C:\Users\SSULAYAJ\source\repos\Asgn-1a\Asgn-1a\bin\Debug\net5.0\ref\Asgn1_2.dll
+C:\Users\SSULAYAJ\source\repos\Asgn-1a\Asgn-1a\bin\Debug\net5.0\Asgn1_2.pdb
+C:\Users\SSULAYAJ\source\repos\Asgn-1a\Asgn-1a\obj\Debug\net5.0\Asgn1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSULAYAJ\source\repos\Asgn-1a\Asgn-1a\obj\Debug\net5.0\Asgn1_2.AssemblyInfoInputs.cache
+C:\Users\SSULAYAJ\source\repos\Asgn-1a\Asgn-1a\obj\Debug\net5.0\Asgn1_2.AssemblyInfo.cs
+C:\Users\SSULAYAJ\source\repos\Asgn-1a\Asgn-1a\obj\Debug\net5.0\Asgn1_2.csproj.CoreCompileInputs.cache
+C:\Users\SSULAYAJ\source\repos\Asgn-1a\Asgn-1a\obj\Debug\net5.0\Asgn1_2.dll
+C:\Users\SSULAYAJ\source\repos\Asgn-1a\Asgn-1a\obj\Debug\net5.0\ref\Asgn1_2.dll
+C:\Users\SSULAYAJ\source\repos\Asgn-1a\Asgn-1a\obj\Debug\net5.0\Asgn1_2.pdb
+C:\Users\SSULAYAJ\source\repos\Asgn-1a\Asgn-1a\obj\Debug\net5.0\Asgn1_2.genruntimeconfig.cache
+C:\Users\SSULAYAJ\source\repos\Asgn-1a\Asgn-1a\obj\Debug\net5.0\Asgn1_2.csproj.AssemblyReference.cache
